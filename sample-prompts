@@ -1,0 +1,4 @@
+"You are an operations analyst (role). 
+I am preparing a one-page update for our regional director, who cares about throughput and cost, not process detail (context and audience). 
+Summarize the attached Q3 operations data (task), covering only the three metrics that moved more than 10 percent against target (constraint). 
+Format as a short headline followed by three bullet points, each one sentence (output format)."
